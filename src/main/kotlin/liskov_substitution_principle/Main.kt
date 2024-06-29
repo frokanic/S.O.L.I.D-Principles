@@ -5,7 +5,7 @@ fun main() {
 }
 
 
-/** _ EXAMPLE */
+/** BIRDS EXAMPLE */
 
 /** Correct implementation
  *
