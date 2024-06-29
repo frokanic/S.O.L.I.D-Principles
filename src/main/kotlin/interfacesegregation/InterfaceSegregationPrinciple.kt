@@ -1,4 +1,4 @@
-package interface_segregation_principle
+package interfacesegregation
 
 fun main() {
 

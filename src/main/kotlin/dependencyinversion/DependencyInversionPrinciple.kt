@@ -1,4 +1,4 @@
-package dependency_inversion_principle
+package dependencyinversion
 
 fun main() {
 

@@ -1,4 +1,4 @@
-package single_responsibility_principle
+package singleresponsibility
 
 fun main() {
 

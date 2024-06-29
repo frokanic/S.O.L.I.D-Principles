@@ -1,4 +1,4 @@
-package open_close_principle
+package openclose
 
 import kotlin.math.sqrt
 

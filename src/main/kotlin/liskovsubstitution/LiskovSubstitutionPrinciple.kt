@@ -1,4 +1,4 @@
-package liskov_substitution_principle
+package liskovsubstitution
 
 fun main() {
 
